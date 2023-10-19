@@ -1,0 +1,6 @@
+1)npm create vite@latest //same as npm create react-app
+2)type project name client //it will then automatically create a folder of client
+3)cd client 
+4)npm install
+5)npm run dev //To run client side
+6)npm start //To run backend
